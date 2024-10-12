@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://payuzalifo.pages.dev/sitemap.xml
